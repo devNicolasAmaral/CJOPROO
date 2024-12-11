@@ -1,0 +1,15 @@
+debug/main.o
+debug/tl_gestao_colaboradores.o
+debug/tl_gestao_estoque.o
+debug/tl_gestao_vendas.o
+debug/tl_login.o
+debug/tl_nova_venda.o
+debug/tl_principal.o
+debug/qrc_Arquivo_de_Recursos.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_tl_gestao_colaboradores.o
+debug/moc_tl_gestao_estoque.o
+debug/moc_tl_gestao_vendas.o
+debug/moc_tl_login.o
+debug/moc_tl_nova_venda.o
+debug/moc_tl_principal.o

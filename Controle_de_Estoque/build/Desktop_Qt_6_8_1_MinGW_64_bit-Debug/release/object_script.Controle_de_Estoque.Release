@@ -1,0 +1,15 @@
+release/main.o
+release/tl_gestao_colaboradores.o
+release/tl_gestao_estoque.o
+release/tl_gestao_vendas.o
+release/tl_login.o
+release/tl_nova_venda.o
+release/tl_principal.o
+release/qrc_Arquivo_de_Recursos.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_tl_gestao_colaboradores.o
+release/moc_tl_gestao_estoque.o
+release/moc_tl_gestao_vendas.o
+release/moc_tl_login.o
+release/moc_tl_nova_venda.o
+release/moc_tl_principal.o
